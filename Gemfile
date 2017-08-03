@@ -6,3 +6,7 @@ gem 'trailblazer'
 # gem 'rspec-trailblazer'
 gem 'pry'
 gem 'pry-nav'
+
+gem "activerecord"
+gem "sqlite3"
+gem "dry-validation"
